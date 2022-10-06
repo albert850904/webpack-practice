@@ -1,0 +1,7 @@
+// this file is just for differencing css and scss loader
+
+// overriding primary color;
+$primary: teal;
+$danger: purple;
+
+@import "~bootstrap/scss/bootstrap";
